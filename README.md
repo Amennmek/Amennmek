@@ -23,6 +23,18 @@ A team project with **Code Club** to make healthcare appointment scheduling easi
 
 *Status: In development*
 
+### 🔐 Secure Vault
+A security-focused project exploring secure storage and protection of sensitive information.
+
+- Focus on secure access and safeguarding stored data.
+- Explore practical application-security concepts.
+
+### 🛡️ Network Vulnerability Scanner
+A cybersecurity project focused on identifying potential security weaknesses in networks and systems.
+
+- Explore network scanning and vulnerability identification.
+- Practice documenting findings and understanding remediation approaches.
+
 ### 🤖 AI Agent Externship
 Completed an AI agent externship involving **n8n** and AI-powered workflow automation.
 
@@ -34,8 +46,8 @@ Completed an AI agent externship involving **n8n** and AI-powered workflow autom
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/amen-wolde-790a79272/
-
+- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- **Portfolio:** Coming soon
 
 ---
 
